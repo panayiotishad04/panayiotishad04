@@ -1,17 +1,12 @@
 ## Hi there 👋
 
-<!--
-**panayiotishad04/panayiotishad04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Panayiotis Hadjiioannou and I am currently doing a Master's in Cybersecurity at UPC. This repository contains the work I have done and am currently doing for my studies, such as group projects for my Bachelor's thesis, as well as projects I do on my own.
 
-My name is Panayiotis Hadjiioannou and I am currently doing a Master's in Cybersecurity at UPC. 
+### Extra's 🌱
+In my free time, I like solving CTFs on TryHackMe: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I like doing CTFs on TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2072841" style='border:none;'></iframe>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://tryhackme-badges.s3.amazonaws.com/panayiotishad04.png" alt="Your Image Badge" />
+
+I have also obtained the following certifications on TryHackMe:
+- Jr Penetration Tester
+- Introduction to Cybersecurity
